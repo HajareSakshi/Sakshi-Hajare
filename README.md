@@ -1,12 +1,11 @@
 # 💫 About Me:
 <!-- Stylish Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F765A3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sakshi+Hajare!;Software+Developer+%7C+Tech+Enthusiast;Always+Learning+Something+New!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF69B4,8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sakshi+Hajare!;💻+Software+Developer+%7C+Tech+Enthusiast;🌟+Always+Learning+and+Exploring+New+Things+🚀" />
 </h1>
 
----
 
-## 🌟 About Me  
+---
 
 Hi! I’m **Sakshi Vijaysing Hajare**, a passionate and enthusiastic **Software Developer (2025 graduate)** who loves turning ideas into meaningful, impactful digital solutions.  
 I enjoy creating clean, user-friendly applications and growing through hands-on projects, internships, and real-world challenges.  
