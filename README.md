@@ -1,8 +1,9 @@
 # 💫 About Me:
 <!-- Stylish Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF69B4,8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Sakshi+Hajare!;💻+Software+Developer+%7C+Tech+Enthusiast;🌟+Always+Learning+and+Exploring+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=700&font=Fira+Code&lines=Hi+there,+I'm+Sakshi+Hajare!;💻+Software+Developer+%7C+Tech+Enthusiast;🚀+Always+Learning+Something+New!" />
 </h1>
+
 
 
 ---
