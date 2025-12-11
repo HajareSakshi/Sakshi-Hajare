@@ -1,5 +1,39 @@
 # 💫 About Me:
-Hi! I’m Sakshi Vijaysing Hajare, a passionate and enthusiastic Software Developer (2025 graduate) who loves building meaningful and user-friendly applications. I enjoy transforming ideas into functional projects and continuously improving my development skills through hands-on learning, internships, and real-world problem-solving. I focus on writing clean, maintainable code and creating solutions that make a real impact.<br><br>I’m deeply interested in exploring cloud technologies, enhancing my full-stack development capabilities, and building software that solves real-world challenges. I enjoy participating in hackathons, learning through new projects, and staying curious as I grow as a developer.
+<!-- Stylish Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F765A3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sakshi+Hajare!;Software+Developer+%7C+Tech+Enthusiast;Always+Learning+Something+New!+🚀" />
+</h1>
+
+---
+
+## 🌟 About Me  
+
+Hi! I’m **Sakshi Vijaysing Hajare**, a passionate and enthusiastic **Software Developer (2025 graduate)** who loves turning ideas into meaningful, impactful digital solutions.  
+I enjoy creating clean, user-friendly applications and growing through hands-on projects, internships, and real-world challenges.  
+My focus is always on writing clean, maintainable code and building solutions that truly make a difference.
+
+---
+
+## 🚀 What Drives Me  
+
+- 🌩️ Exploring the world of **Cloud Technologies**  
+- 🧩 Enhancing my **Full-Stack Development** skills  
+- 💡 Solving **real-world problems** using tech  
+- 🏆 Participating in **Hackathons & Tech Events**  
+- 🔥 Staying **curious, creative, and always learning**  
+
+---
+
+### 💬 Let's Connect  
+<p align="left">
+  <a href="mailto:svhajare03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sakshi-hajare-b30003245"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ *Always excited to build, explore, and grow as a developer!* ✨</p>
 
 
 ## 🌐 Socials:
